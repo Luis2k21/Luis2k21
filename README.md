@@ -1,4 +1,4 @@
-### Whats'up i'm Luis Hariel 👋
+## Whats'up i'm Luis Hariel 👋
 - 🌱 I’m currently learning: Java
 - 🔥 I'm studying 2 languages: Japanese & French
 - 📫 Discord: !Luis Hariel#1934
