@@ -1,6 +1,6 @@
 # Hi i'm Luis Hariel 💪
 - 🌱 I’m currently learning in: Generation Brasil, Java Junior Full Stack
-- 🔥 I'm studying 2 languages: Japanese & French
+- 🔥 I'm studying: Japanese
 - 📱 Discord: !Luis Hariel#1934
 - 😄 Pronouns: He/Ele
 -->
