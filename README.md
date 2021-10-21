@@ -10,7 +10,7 @@
 --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2k21&theme=highcontrast&layout=compact&langs_count=7&bg_color=DEG,110,100,300"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2k21&theme=highcontrast&layout=compact&lang_count=7&bg_color=DEG,110,100,300"/>
 
 
 <div>  
