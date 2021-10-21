@@ -10,7 +10,7 @@
 --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2k21&layout=compact&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)](https://github.com/Luis2k21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2k21&layout=compact&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)]
 
 
 <div>  
