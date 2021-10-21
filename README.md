@@ -24,4 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" width="45px">
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/luis-hariel-8152281b7/?_l=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ![Snake animation](https://github.com/Luis2k21/Luis2k21/blob/output/github-contribution-grid-snake.svg)
