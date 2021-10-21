@@ -4,4 +4,20 @@
 - 😄 Pronouns: He/Ele
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)
+
+<div>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width="45px">
+
+</div>
+  <br></br>
+<div>
+<img align="left" height="200px" src="https://img.wattpad.com/bf48ffcf9b4f4adba6615c52f828d8f3ed758583/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f664d72797555545f766f774669513d3d2d313035333232373639372e313637343539333665303734313262363937323634353631303437312e676966"
+</div>
