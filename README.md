@@ -5,6 +5,8 @@
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis2k21&layout=compact&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)](https://github.com/Luis2k21/github-readme-stats)
+
 
 <div>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="45px">
