@@ -27,4 +27,4 @@
 
   <br></br>
 
-![Snake animation](https://github.com/Luis2k21/Luis2k21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Luis2k21)
