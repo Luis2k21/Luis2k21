@@ -4,7 +4,7 @@
 <img  height="200px" src="https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277"
 </div> <br> </br>
 
-- ☕️ My Name: Luis Hariel
+- ☕️ Name: Luis Hariel
 - 🎮 Love Video Games
 - 🌆 Full Stack Java Jr
 - 💻 Discord: !Luis Hariel#1934
