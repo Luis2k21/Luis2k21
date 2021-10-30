@@ -5,6 +5,7 @@
 </div> <br> </br>
 
 - ☕️ My Name: Luis Hariel
+- 🎮 Love Video Games
 - 🌆 Full Stack Java Jr
 - 💻 Discord: !Luis Hariel#1934
 - 😄 Pronouns: He/His
