@@ -5,7 +5,7 @@
 </div> <br> </br>
 
 - ☕️ My Name: Luis Hariel
-- 🌆 I’m currently learning at: Generation Brazil, Java Junior Full Stack
+- 🌆 I’m currently learning at: Generation Brasil, Java Junior Full Stack
 - 💻 Discord: !Luis Hariel#1934
 - 😄 Pronouns: He/Ele
 --> 
