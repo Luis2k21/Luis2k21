@@ -7,7 +7,7 @@
 - ☕️ My Name: Luis Hariel
 - 🌆 I’m currently learning at: Generation Brasil, Java Junior Full Stack
 - 💻 Discord: !Luis Hariel#1934
-- 😄 Pronouns: He/Ele
+- 😄 Pronouns: He/His
 --> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis2k21&theme=highcontrast&show_icons=true&border_radius=10px&&bg_color=DEG,100,100,200)
