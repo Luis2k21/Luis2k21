@@ -1,10 +1,10 @@
-# Good day mate!
+# <i>Good day mate!</i>
 
 <div>
-<img  height="200px" src="https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277"
+  <img  height="600px" src="https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277"
 </div> <br> </br>
 
-- ☕️ Name: Luis Hariel
+- ☕️ <strong>Name</strong>: Luis Hariel
 - 🎮 Love Video Games
 - 🌆 Full Stack Java Jr
 - 💻 Discord: !Luis Hariel#1934
