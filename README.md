@@ -6,8 +6,7 @@
 
 - ☕️ <strong>Name</strong>: Luis Hariel
 - 🎮 Love Video Games
-- 🌆 Full Stack Java Jr
-- 💻 Discord: !Luis Hariel#1934
+- 🌆 Student
 - 😄 Pronouns: He/His
 --> 
 
