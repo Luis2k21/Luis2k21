@@ -29,5 +29,3 @@
 
 <div>
   <a href="https://www.linkedin.com/in/luis-hariel-8152281b7/?_l=pt_BR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/Luis2k21/Luis2k21/blob/output/github-contribution-grid-snake.svg)
